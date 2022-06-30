@@ -1,0 +1,6 @@
+numpy
+gym
+keras
+matplotlib
+tensorflow
+python3.7.6

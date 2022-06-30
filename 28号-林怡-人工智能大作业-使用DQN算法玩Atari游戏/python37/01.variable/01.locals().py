@@ -1,0 +1,2 @@
+variables=locals()
+print("end")
